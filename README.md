@@ -1,8 +1,8 @@
 # Hi there, I'm Francisco Villar
 
-I'm software developer from Spain and now based in Almería.
+I am a software developer with experience working in marketing agencies and tech product companies. Throughout my career, I have primarily focused on frontend development, utilizing various technologies to create appealing and functional user interfaces. Over the years, I have gained a deep understanding of how to enhance user experiences and optimize web application performance.
 
-I have worked in different tech companies focus on marketing, social networks and tech products.
+Currently, I am seeking my first opportunities in backend development, with a particular interest in the world of data. I am expanding my skill set to include data management and processing, allowing me to contribute more comprehensively to the software development cycle, from frontend to backend data handling.
 
 
 ## Backend Stack
