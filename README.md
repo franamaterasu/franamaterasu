@@ -2,8 +2,6 @@
 
 I am a **software developer** with experience working in **marketing agencies** and **tech product companies**. Throughout my career, I have primarily focused on **frontend development**, utilizing various technologies to create appealing and functional user interfaces. Over the years, I have gained a **deep understanding** of how to enhance user experiences and optimize web application performance.
 
-Currently, I am seeking my **first opportunities in backend development**, with a particular interest in the **world of data**. I am expanding my **skill set** to include **data management, analysis and visualization**, allowing me to contribute more comprehensively to the **software development cycle**, from **frontend to backend data handling**.
-
 ## Frontend Stack
 
 | ![HTML5](https://img.icons8.com/?size=80&id=9nmz9TYzN8iO&format=png) | <div align="center">![CSS3](https://img.icons8.com/?size=80&id=38273&format=png)</div> | ![Javascript](https://img.icons8.com/?size=75&id=39853&format=png) | ![Typescript](https://img.icons8.com/?size=75&id=vMqgHSToxrJR&format=png) | ![React](https://img.icons8.com/?size=60&id=viH7JJy51bHj&format=png) | ![Jest](https://img.icons8.com/?size=50&id=oL2HGqCJ4Qhd&format=png) |
